@@ -1,6 +1,9 @@
 <div class="container">
   <div class="row d-flex justify-content-end">
-    <div class="col-12 col-md-6"><img src="{{ site.github.url }}{{ page.image }}"></div>
+    <div class="col-12 col-md-4 align-items-center">
+      {% if page.image %}
+      <img src="{{ site.github.url }}{{ page.image }}" alt="Rhubarb" class="img-fluid animate__animated animate__slideInUp mb-3"></div>
+      {% endif %}
     <div class="col-12 col-md-6 animate__animated animate__slideInUp">
       {{ page.intro_section | markdownify }}
 

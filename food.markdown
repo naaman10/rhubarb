@@ -10,5 +10,6 @@ intro_section: "* I like to be fed twice a day, first at 8am and again at 7pm\n*
   bowl of water with each meal too? Good to stay hydrated \n\n  **tip**\n\n  Take
   food to feed me from the left hand side of the tray and replenish from the freezer
   to the right hand side of the tray"
+image: "/uploads/img_0979.jpg"
 
 ---
