@@ -27,5 +27,6 @@ fields:
     maxSize: 64
   label: image
 pages:
+- commands.markdown
 - food.markdown
 - walks.markdown
