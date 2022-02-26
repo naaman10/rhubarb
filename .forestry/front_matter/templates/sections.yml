@@ -17,3 +17,7 @@ fields:
 - type: textarea
   name: intro_section
   label: intro_section
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
