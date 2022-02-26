@@ -22,5 +22,6 @@ fields:
     schema:
       format: markdown
 pages:
+- "./commands.markdown"
 - "./walks.markdown"
 - food.markdown
