@@ -12,5 +12,6 @@ intro_section: |-
   * **tip**
 
     I get excited when I see over people and doggies on walks and I love to say hello. Telling me to heel with a treat will help keep me from pulling
+image: "/uploads/img_1030.jpg"
 
 ---
