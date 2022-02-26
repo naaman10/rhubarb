@@ -11,6 +11,12 @@ h1 {
     margin-bottom: 0;
   }
 }
+.menu-list {
+  li {
+    list-style: none;
+  }
+  padding-left: 0;
+}
 .material-icons {
   font-family: 'Material Icons';
   font-weight: normal;
