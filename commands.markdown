@@ -17,6 +17,6 @@ intro_section: |-
   **tip**
 
   If I get really excited, tell me to Wait or to go to my place to help me calm down
-image: ''
+image: "/uploads/img_1408.jpg"
 
 ---
