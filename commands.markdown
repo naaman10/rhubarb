@@ -14,8 +14,9 @@ intro_section: |-
   * Come
   * In to Your Place
 
-    **tip**
+  **tip**
 
-    If I get really excited, tell me to Wait or to go to my place to help me calm down
+  If I get really excited, tell me to Wait or to go to my place to help me calm down
+image: "/uploads/img_1408.jpg"
 
 ---

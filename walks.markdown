@@ -9,9 +9,9 @@ intro_section: |-
   * I might be getting close to my season, so keep me on my lead and watch out dirty boys
   * I love to go to the park for a walk
 
-  * **tip**
+  **tip**
 
-    I get excited when I see over people and doggies on walks and I love to say hello. Telling me to heel with a treat will help keep me from pulling
+  I get excited when I see other people and doggies on walks and I love to say hello. Telling me to heel with a tasty treat will help keep me from pulling
 image: "/uploads/img_1030.jpg"
 
 ---
