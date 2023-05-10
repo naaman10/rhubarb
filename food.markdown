@@ -2,7 +2,7 @@
 layout: page
 title: food
 permalink: /food/
-section: 1
+section: 2
 intro_section: >-
   * I like to be fed twice a day, first at 8am and again at 7pm
 

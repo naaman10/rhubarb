@@ -2,7 +2,7 @@
 layout: page
 title: commands
 permalink: /commands/
-section: 3
+section: 4
 intro_section: >-
   I'm a clever girl and know lots of commands!
 

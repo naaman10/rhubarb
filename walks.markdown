@@ -2,7 +2,7 @@
 layout: page
 title: walks
 permalink: /walks/
-section: 2
+section: 3
 intro_section: >-
   * I really love a good walk, I like to go out for a walk once a day for about
   an hour or so
