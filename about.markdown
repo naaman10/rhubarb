@@ -14,7 +14,7 @@ intro_section: >-
   <br>
   here's something you should know, I have got a little injury so I need your help...
   <br>
-    * I am on rest duty so can only go on two 10 minute walks a day
+    * I am on rest duty so can only go on two 10 minute walks a day on lead
     * please don't let me go up any stairs
     * I'm also not allowed to play very much but I can still have cuddles
 image: /uploads/IMG_2860.jpg
