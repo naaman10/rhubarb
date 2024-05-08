@@ -4,8 +4,7 @@ title: walks
 permalink: /walks/
 section: 3
 intro_section: >-
-  * I really love a good walk, I like to go out for a walk once a day for about
-  an hour or so
+  * I really love a good walk, but while im on rest I can only do two 10 minute walks a day on lead
 
   * My people will leave you my lead, collar, harness and treat bag
 
