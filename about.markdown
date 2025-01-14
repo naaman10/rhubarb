@@ -19,6 +19,14 @@ intro_section: >-
     * I'm also not allowed to play very much but I can still have cuddles
 image: /uploads/IMG_2860.jpg
 _template: sections
+honey_section:
+  title: I am Honey
+  text: >-
+    i am honey, the baby. i am rhubarb's little sister.
+    <br>
+    <br>
+    rhu is super chill, i am not.
+  image: /uploads/IMG_2860.jpg
 ---
 
 

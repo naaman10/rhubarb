@@ -1,0 +1,19 @@
+<section>
+  <div class="container">
+    <div class="col-12 col-md-12">        
+      <div class="container">
+        <div class="row d-flex justify-content-end">
+          <div class="col-12 col-md-6 animate__animated animate__slideInUp">
+            <h2><span class="honey">{{ page.honey_section.title }}</span></h2>
+            {{ page.honey_section.text | markdownify }}
+          </div>
+          <div class="col-12 col-md-4 align-items-center">
+            {% if page.honey_section.image %}
+            <img src="{{ site.github.url }}{{ page.honey_section.image }}" alt="Rhubarb" class="img-fluid animate__animated animate__slideInUp mb-3"></div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
