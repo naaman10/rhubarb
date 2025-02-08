@@ -7,4 +7,3 @@ intro_text: >-
 _template: home
 ---
 
-
